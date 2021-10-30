@@ -2,7 +2,7 @@
 - 👀 I’m interested in WordPress
 - 🌱 I’m currently learning some things
 - 💞️ I’m looking to collaborate on bugs
-- 📫 How to reach me ...http://www.jrmora.com/blog
+- 📫 How to reach me ...http://jrmora.com
 
 <!---
 JR-Mora/JR-Mora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
